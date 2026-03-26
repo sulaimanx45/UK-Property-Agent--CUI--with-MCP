@@ -216,36 +216,6 @@ https://cuishoreditch.com/property/example-property
 
 ---
 
-## 📈 Future Improvements
-
-* Add memory (conversation history)
-* Add ranking/scoring of properties
-* Add map-based search
-* Convert into web app (FastAPI + React)
-* Multi-agent system (search + advisor + negotiator)
-* Add embeddings for semantic search
-
----
-
-## 🌍 Why This Project Matters
-
-This project showcases:
-
-* Real-world **Agentic AI system design**
-* Integration of **LLMs + tools + APIs**
-* Production-level thinking (validation, error handling)
-
-Perfect for:
-
-* GSoC applications
-* AI/ML portfolios
-* Backend + AI engineering roles
-
----
-
-## 👤 Author
-
-Sulaiman Ahmad
 
 ---
 
