@@ -14,11 +14,17 @@ This project demonstrates how to build a **production-style agentic system** tha
 ## Features
 
 ✅ MCP-powered tool system
+
 ✅ Real UK property data integration
+
 ✅ Smart validation before search
+
 ✅ Price insight when no results found
+
 ✅ Direct property lookup via URL/name
+
 ✅ Zero hallucination (tool-only responses)
+
 ✅ Clean agent decision flow
 
 ---
@@ -213,9 +219,6 @@ https://cuishoreditch.com/property/example-property
 * ✅ Tool-first architecture
 * ✅ Strict validation before execution
 * ✅ Separation of concerns (Agent vs MCP)
-
----
-
 
 ---
 
