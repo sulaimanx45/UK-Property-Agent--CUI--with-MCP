@@ -1,4 +1,4 @@
-# 🏡 UK Property AI Agent (MCP + LLM)
+# UK Property AI Agent (MCP + LLM)
 
 An intelligent **AI-powered property assistant** that interacts with real-world UK property listings using an **MCP (Model Context Protocol) server** and a **tool-using LLM agent**.
 
@@ -11,7 +11,7 @@ This project demonstrates how to build a **production-style agentic system** tha
 
 ---
 
-## 🚀 Features
+## Features
 
 ✅ MCP-powered tool system
 ✅ Real UK property data integration
@@ -23,7 +23,7 @@ This project demonstrates how to build a **production-style agentic system** tha
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 ```
 User Query
@@ -39,7 +39,7 @@ External API (Property Listings)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **LLM**: Groq (LLaMA 3.3 70B)
 * **Agent Framework**: Agno
@@ -49,7 +49,7 @@ External API (Property Listings)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 uk-property-agent/
@@ -66,7 +66,7 @@ uk-property-agent/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone Repo
 
@@ -105,7 +105,7 @@ GROQ_API_KEY=your_api_key_here
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 ### Step 1: Start MCP Server
 
@@ -129,7 +129,7 @@ python agent/client.py
 
 ---
 
-## 🤖 How the Agent Works
+## How the Agent Works
 
 The agent follows a strict reasoning pipeline:
 
@@ -166,7 +166,7 @@ If user provides:
 
 ---
 
-## 🧰 Available MCP Tools
+## Available MCP Tools
 
 ### 1. `get_catalog`
 
@@ -191,7 +191,7 @@ If user provides:
 
 ---
 
-## 🧪 Example Queries
+## Example Queries
 
 ```
 Find me a 2-bedroom apartment in London under 500000
@@ -207,7 +207,7 @@ https://cuishoreditch.com/property/example-property
 
 ---
 
-## ⚠️ Design Principles
+## Design Principles
 
 * ❌ No hallucinated data
 * ✅ Tool-first architecture
@@ -219,6 +219,6 @@ https://cuishoreditch.com/property/example-property
 
 ---
 
-## ⭐ Contribute
+## Contribute
 
 Feel free to fork, improve, and submit PRs!
